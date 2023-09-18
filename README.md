@@ -1,2 +1,4 @@
-# giphy-react-native-vercel
+# giphy-react-native
 Created with CodeSandbox
+
+## A GIF finder react native app with debouncing. 
